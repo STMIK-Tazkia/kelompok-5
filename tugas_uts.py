@@ -1,3 +1,4 @@
+1.
 #buatlah program untuk fungsi menghitung perkalian matrix pada matrix 4x4 untuk matrix berikut : di ketahui 
 # Matriks C
 C = np.array([
@@ -22,6 +23,8 @@ result = np.dot(C, D)
 print("Hasil perkalian matriks C x D adalah:")
 print(result)
 
+2.
+#buat fungsi untuk mengambil irisan dan benda selangkup dari 2 himpunan ini :
 # Definisi himpunan
 A = {330, 50, 6, 4, 50, 18, 21, 3, 23, 133, 46, 77}
 B = {122, 120, 1.56, 21, 210, 31, 50, 15, 6, 4, 337}
